@@ -1,0 +1,6 @@
+{
+  "name": "Drift King 3D - ملك الدريفت",
+  "description": "High-octane 3D car drifting game with realistic drift physics, nitro boosts, skidmarks, tire smoke, dynamic tracks, and synth sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
